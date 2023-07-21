@@ -14,3 +14,10 @@ HI this is Read me file.
       </div>
     </div>
   </footer>
+
+  git commands for pushing code from local to github:
+  1. git add .
+  2. git status
+  3. git commit -m "initial code"
+  4. git remote add test https://github.com/NaivedyaSahay/portfolio.git
+  5. git push test main
